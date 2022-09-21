@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <meta charset="UTF-8">
+     <title> Digi Food </title>
+
+     <style>
+          body {
+               font-family: b yekan;
+          }
+          
+          table {
+               border: 3px solid red;
+          }
+          th {
+               font-size: 40px;
+          }
+
+     </style>
+
+</head>
+
+<body dir="rtl">
+
+    <div style="background-color: rgb(37, 36, 36); border: 12px solid rgb(252, 175, 8);"> 
+
+     <h1 align="center" style="color: rgb(252, 175, 8); font-size: 55px;"> D G I ‌ ‌ F O O D  </h1>
+     <h1 align="center" style="color: rgb(252, 175, 8); font-size: 55px;"> دیــــجــــی فــــود  </h1>
+
+     </div>
+     <br><br><br>
+
+     <div style="border: 12px solid rgb(252, 175, 8);">
+     <h1 align="center"> دسـتـه بـنـدی هـا </h1>
+     <h1 align="center"> c a t e g o r i e s </h1>
+     
+     
+     <div style="border: 10px solid rgb(252, 175, 8); width: 500px;">
+          <h1 align="center">
+               فــود پــارتــی 
+               <br>
+               Food Party
+          </h1>
+     </div>
+
+     <figure>
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=1&page=0&section=SERVICES&superType=1">
+          <img src="persian_food.jpg" alt="Persian Food" title="Persian Food">
+     </a>
+          <figcaption> غذای ایرانی </figcaption>
+          <figcaption> Persian Food </figcaption>
+     </figure>
+
+     <figure dir="ltr">
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=7&page=0&section=SERVICES&superType=1">
+          <img src="website_image_fastfood_1.jpg" alt="Fast Food" title="Fast Food">
+     </a>
+          <figcaption> فست فود </figcaption>
+          <figcaption> Fast Food </figcaption>
+     </figure>
+     
+     <figure>
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=7-%3E13&page=0&section=SERVICES&superType=1">
+          <img src="Sokhari.jpg" alt="Sokhari Food" title="Sokhari Food">
+     </a>
+          <figcaption> سوخاری </figcaption>
+          <figcaption> Sokhari Food </figcaption>
+     </figure>
+
+     <figure dir="ltr">
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=7-%3E10&page=0&section=SERVICES&superType=1">
+          <img src="Pasta.jpg" alt="Pasta" title="Pasta">
+     </a>
+          <figcaption> پاستا </figcaption>
+          <figcaption> Pasta </figcaption>
+     </figure>
+
+     <figure>
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=42&page=0&section=SERVICES&superType=1">
+          <img src="Daryaee.jpg" alt="Daryaee Food" title="Daryaee Food">
+     </a>
+          <figcaption> دریایی </figcaption>
+          <figcaption> Daryaee Food </figcaption>
+     </figure>
+
+     <figure dir="ltr">
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=14&page=0&section=SERVICES&superType=1">
+          <img src="Benalmelal.jpg" alt="Benalmelali" title="Benalmelali">
+     </a>
+          <figcaption> بین المللی </figcaption>
+          <figcaption> Benalmelali </figcaption>
+     </figure>
+
+     <figure>
+     <a href="https://snappfood.ir/service/restaurant/city/Tehran/near?category=15&page=0&section=SERVICES&superType=1">
+          <img src="salad_1.jpg" alt="Salad" title="Salad">
+     </a>
+          <figcaption> سالاد </figcaption>
+          <figcaption> Salad </figcaption>
+     </figure>
+     
+     </div>
+</body>
+
+</html>
